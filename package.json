@@ -8,6 +8,6 @@
     "start": "cyclic start"
   },
   "dependencies": {
-    "cyclic": "^1.0.0"
+    "cyclic": "^1.0.1"
   }
 }
